@@ -368,7 +368,7 @@ if exists("did_javascript_hilink")
   HiLink javascriptAsyncFunc            Keyword
   HiLink javascriptArrowFunc            Type
   HiLink javascriptFuncName             Function
-  HiLink javascriptFuncArg              Special
+  HiLink javascriptFuncArg              Type
   HiLink javascriptArrowFuncArg         javascriptFuncArg
   HiLink javascriptFuncComma            Operator
 
