@@ -327,7 +327,7 @@ if exists("did_javascript_hilink")
   " HiLink javascriptTemplateSString      Label
   HiLink javascriptTemplateSStringRB    javascriptTemplateSubstitution
   HiLink javascriptTemplateSB           javascriptTemplateSubstitution
-  HiLink javascriptRegexpString         Debug
+  HiLink javascriptRegexpString         String
   HiLink javascriptGlobal               Constant
   HiLink javascriptCharacter            Character
   HiLink javascriptPrototype            Type
